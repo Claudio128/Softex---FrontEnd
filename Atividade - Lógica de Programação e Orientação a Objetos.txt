@@ -1,0 +1,17 @@
+FISICA
+
+1 Aristoteles
+2 Platão
+3 Sócrates
+
+MATEMATICA
+
+1 Platão	
+2 Socrates
+3 Aristoteles
+
+QUIMICA
+
+1 Socrates
+2 Aristoteles
+3 Platão
