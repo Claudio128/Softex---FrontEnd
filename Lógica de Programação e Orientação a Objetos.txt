@@ -1,0 +1,7 @@
+Atividade 03 - Lógica de Programação e Orientação a Objetos
+
+Nome = Caractere;
+CPF = Real;
+RG = Real;
+Altura = Real;
+Endereço = Caractere.
